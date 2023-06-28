@@ -1,6 +1,6 @@
 {
   "name": "react-library-vite-yzhy",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "description": "A scaffold app for building a React component/library using Vite, ready for publication to npm",
   "author": "Tom Southall",
   "keywords": [],
