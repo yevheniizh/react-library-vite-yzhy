@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   build: {
     lib: {
-      entry: path.resolve(__dirname, 'src/lib/index.jsx'),
+      entry: path.resolve(__dirname, 'src/lib/index.js'),
       name: 'React Library Vite',
       fileName: (format) => `react-library-vite.${format}.js`
     },

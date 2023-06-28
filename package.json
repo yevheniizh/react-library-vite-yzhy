@@ -1,6 +1,6 @@
 {
-  "name": "react-library-vite",
-  "version": "0.0.0",
+  "name": "react-library-vite-yzhy",
+  "version": "0.0.2",
   "description": "A scaffold app for building a React component/library using Vite, ready for publication to npm",
   "author": "Tom Southall",
   "keywords": [],
@@ -8,7 +8,7 @@
     "dist",
     "README.md"
   ],
-  "main": "./dist/react-library-vite.umd.js",
+  "main": "./dist/react-library-vite.es.js",
   "module": "./dist/react-library-vite.es.js",
   "exports": {
     ".": {

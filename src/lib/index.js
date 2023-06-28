@@ -1,0 +1,1 @@
+export { WWComponent } from './components/WWComponent/WWComponent.jsx'
